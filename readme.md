@@ -31,7 +31,7 @@
 ![which_stats_tests_04](which_stats_tests_04.png)
 
 
-### differences between KL and JS Divergence
+### Differences between KL and JS Divergence
 
 ```
 Key Differences:
