@@ -40,7 +40,7 @@ Key Differences:
 - Zero handling: KL breaks with zeros, JS handles them
 ```
 
-**Interpretation: KL = "surprise", JS = "average difference"**
+Interpretation: **KL = "surprise"**, **JS = "average difference"**
 
 ```
 Simple Rule:
