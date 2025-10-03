@@ -1,6 +1,6 @@
 # statistical_distribution_testing_cookbook
 
-## KS Test: Detects any differences in continuous distributions (shape, location, spread)
+### KS Test: Detects any differences in continuous distributions (shape, location, spread)
 
 ![kolmogorov_smirnov_demo_00](kolmogorov_smirnov_demo_00.png)
 
@@ -10,7 +10,7 @@
 
 ![kolmogorov_smirnov_demo_03](kolmogorov_smirnov_demo_03.png)
 
-## Chi-square Test: Detects differences in categorical frequency distributions
+### Chi-square Test: Detects differences in categorical frequency distributions
 
 ![chi_square_demo_00](chi_square_demo_00.png)
 
@@ -18,7 +18,7 @@
 
 ![chi_square_demo_02](chi_square_demo_02.png)
 
-# Which Stats Test?
+### Which Stats Test?
 
 ![which_stats_tests_00](which_stats_tests_00.png)
 
@@ -31,7 +31,7 @@
 ![which_stats_tests_04](which_stats_tests_04.png)
 
 
-# diff_kl_js_divergence
+### differences between KL and JS Divergence
 
 ```
 Key Differences:
