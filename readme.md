@@ -35,20 +35,18 @@
 
 ```
 Key Differences:
-Symmetry: KL is asymmetric, JS is symmetric
+- Symmetry: KL is asymmetric, JS is symmetric
+- Range: KL can be 0 to ∞, JS is always 0 to 1
+- Zero handling: KL breaks with zeros, JS handles them
+```
 
-Range: KL can be 0 to ∞, JS is always 0 to 1
+**Interpretation: KL = "surprise", JS = "average difference"**
 
-Zero handling: KL breaks with zeros, JS handles them
-
-Interpretation: KL = "surprise", JS = "average difference"
-
+```
 Simple Rule:
-Use KL when you have "true" vs "predicted"
-
-Use JS when comparing two distributions equally
-
-Use JS when you need consistent, bounded results
+- Use KL when you have "true" vs "predicted"
+- Use JS when comparing two distributions equally
+- Use JS when you need consistent, bounded results
 ```
 
 ![diff_kl_js_divergence_00](diff_kl_js_divergence_00.png)
