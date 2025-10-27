@@ -38,9 +38,9 @@ To make 4 groups, we need **3 dividers (bars)**:
 
 This could represent:
 
-\[
+$\
 a_1 = 3, \quad a_2 = 5, \quad a_3 = 8, \quad a_4 = 11
-\]
+$\
 
 Each unique placement of the 3 bars among the 27 stars corresponds to one possible solution.
 
