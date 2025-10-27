@@ -63,15 +63,15 @@ $$\
 
 ## ✅ Step 4. Compute It
 
-$$
+$$\
 \binom{30}{3} = \frac{30 \times 29 \times 28}{3 \times 2 \times 1} = 4060
-$$
+\$$
 
 Therefore:
 
-$$
-\# \text{ of integer solutions to } a_1 + a_2 + a_3 + a_4 = 27 = \binom{27 + 4 - 1}{4 - 1} = \binom{30}{3} = 4060
-$$
+$$\
+\text{Number of integer solutions to } a_1 + a_2 + a_3 + a_4 = 27 = \binom{27 + 4 - 1}{4 - 1} = \binom{30}{3} = 4060
+\$$
 
 ---
 
