@@ -55,23 +55,23 @@ We have:
 
 To count all possible arrangements, we simply choose where the **3 bars** go among the 30 positions.
 
-\[
+$$\
 \text{# of arrangements} = \binom{30}{3}
-\]
+$$\
 
 ---
 
 ## ✅ Step 4. Compute It
 
-\[
+$$\
 \binom{30}{3} = \frac{30 \times 29 \times 28}{3 \times 2 \times 1} = 4060
-\]
+\$$
 
 Therefore:
 
-\[
+$$\
 \text{# of integer solutions to } a_1 + a_2 + a_3 + a_4 = 27 = \binom{27 + 4 - 1}{4 - 1} = \binom{30}{3} = 4060
-\]
+\$$
 
 ---
 
@@ -79,17 +79,17 @@ Therefore:
 
 For a general case:
 
-\[
+$$\
 a_1 + a_2 + \dots + a_k = n
-\]
+\$$
 
 (where each \(a_i \ge 0\))
 
 Then the number of nonnegative integer solutions is:
 
-\[
+$$\
 \boxed{\binom{n + k - 1}{k - 1}}
-\]
+\$$
 
 **Reason:**  
 - \(n\) = stars (items)  
@@ -115,17 +115,16 @@ while consciousness collapses them into a **single subjective experience**.
 
 ## 🧩 Summary
 
-\[
+$$\
 |\text{Objective configurations}| = 4060
-\]
-\[
+\$$
+
+$$\
 |\text{Subjective experience}| = 1
-\]
+\$$
 
 > Combinatorics reveals multiplicity;  
 > Perception collapses it into unity.
-
-
 
 
 | Symbol         | Meaning in paradox                                        |
@@ -140,9 +139,9 @@ while consciousness collapses them into a **single subjective experience**.
 
 We want the number of **nonnegative integer solutions** to:
 
-\[
+$$\
 a_1 + a_2 + a_3 + a_4 = 27
-\]
+\$$
 
 This counts how many ways **27 indistinguishable stars** can be distributed into **4 distinguishable slots**.
 
@@ -168,9 +167,9 @@ Example configuration:
 
 Which corresponds to:
 
-\[
+$$\
 a_1 = 3, \quad a_2 = 5, \quad a_3 = 8, \quad a_4 = 11
-\]
+\$$
 
 ---
 
@@ -180,9 +179,9 @@ There are 27 stars and 3 bars — a total of 30 symbols.
 
 We simply choose 3 of the 30 positions to be bars:
 
-\[
+$$\
 \text{# of configurations} = \binom{30}{3} = 4060
-\]
+\$$
 
 So there are **4060 possible distributions** of 27 stars among 4 slots.
 
@@ -192,15 +191,15 @@ So there are **4060 possible distributions** of 27 stars among 4 slots.
 
 For any equation:
 
-\[
+$$\
 a_1 + a_2 + \dots + a_k = n
-\]
+\$$
 
 with \(a_i \ge 0\), the number of solutions is:
 
-\[
+$$\
 \boxed{\binom{n + k - 1}{k - 1}}
-\]
+\$$
 
 **Reasoning:**
 - \(n\): stars (indistinguishable items)
@@ -236,15 +235,15 @@ Subjective perception: [★] ← indistinguishable identity
 
 So even though:
 
-\[
+$$\
 |\text{Objective configurations}| = 4060
-\]
+\$$
 
 we experience only:
 
-\[
+$$\
 |\text{Subjective experience}| = 1
-\]
+\$$
 
 ---
 
@@ -278,21 +277,21 @@ Define:
 
 Then:
 
-\[
+$$\
 \mathcal{C} = \{ (a_1, a_2, a_3, a_4) \mid a_i \ge 0, \sum a_i = 27 \}
-\]
+\$$
 
 Define a **perceptual equivalence relation** \( \sim \):
 
-\[
+$$\
 c_i \sim c_j \iff \text{ID cannot distinguish configuration } c_i \text{ from } c_j
-\]
+\$$
 
 Then:
 
-\[
+$$\
 |\mathcal{C}| = 4060, \quad |\mathcal{C}/\sim| = 1
-\]
+\$$
 
 ---
 
