@@ -195,7 +195,7 @@ $$\
 a_1 + a_2 + \dots + a_k = n
 \$$
 
-with \(a_i \ge 0\), the number of solutions is:
+with $$\ a_i \ge 0 \$$, the number of solutions is:
 
 $$\
 \boxed{\binom{n + k - 1}{k - 1}}
@@ -231,7 +231,6 @@ From the **inside**, if you — the observer — cannot tell which slot or distr
 then all 4060 configurations appear identical to you:
 
 Subjective perception: [★] ← indistinguishable identity
-
 
 So even though:
 
