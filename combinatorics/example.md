@@ -70,7 +70,7 @@ $$
 Therefore:
 
 $$
-\text{# of integer solutions to } a_1 + a_2 + a_3 + a_4 = 27 = \binom{27 + 4 - 1}{4 - 1} = \binom{30}{3} = 4060
+\# \text{ of integer solutions to } a_1 + a_2 + a_3 + a_4 = 27 = \binom{27 + 4 - 1}{4 - 1} = \binom{30}{3} = 4060
 $$
 
 ---
