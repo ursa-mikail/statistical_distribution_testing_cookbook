@@ -205,7 +205,7 @@ $$\
 - \(n\): stars (indistinguishable items)
 - \(k-1\): bars (dividers)
 - \(n + k - 1\): total positions
-- Choose where to place the bars → \(\binom{n + k - 1}{k - 1}\)
+- Choose where to place the bars → $$\ \binom{n + k - 1}{k - 1} \$$
 
 ---
 
