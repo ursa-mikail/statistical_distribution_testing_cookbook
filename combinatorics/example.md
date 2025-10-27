@@ -179,9 +179,9 @@ There are 27 stars and 3 bars — a total of 30 symbols.
 
 We simply choose 3 of the 30 positions to be bars:
 
-$$\
-\text{# of configurations} = \binom{30}{3} = 4060
-\$$
+$$
+\text{\# of configurations} = \binom{30}{3} = 4060
+$$
 
 So there are **4060 possible distributions** of 27 stars among 4 slots.
 
